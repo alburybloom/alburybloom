@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @alburybloom
-- 👀 I’m interested in ... Data Analytics  
-- 🌱 I’m currently learning ... SQL  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alburybloom/alburybloom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Abigail Albury-Bloom. Welcome to my Data Analysis Portfolio! This repository showcases a variety of data analysis projects I’ve worked on. Each project demonstrates my ability to clean, analyze, and visualize data to provide actionable insights. The goal of this portfolio is to demonstrate my proficiency with data manipulation, statistical analysis, machine learning, and visualization tools.
